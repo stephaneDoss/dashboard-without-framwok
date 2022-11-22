@@ -1,0 +1,13 @@
+.icon-list{
+    background-color: white;
+    border-radius: 20%;
+    padding: 5;
+}
+
+body {
+    overflow-x: hidden; 
+ }
+
+td {
+   vertical-align: middle;
+}
